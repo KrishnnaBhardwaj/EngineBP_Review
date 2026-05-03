@@ -46,3 +46,5 @@ A DeSci-based protocol where:
 
 ## Status
 Initial concept and architecture design phase
+
+Builder → Upload Blueprint → Engineers Review → Consensus → Rewards
